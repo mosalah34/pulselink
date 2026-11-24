@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PulseLink</string>
+    <string name="channel_name">PulseLink Patient Monitoring</string>
+    <string name="channel_desc">Active alerts and continuous Bluetooth connection for patient vitals</string>
+    <string name="notification_title">PulseLink Active</string>
+    <string name="notification_desc">Monitoring patient vital signs...</string>
+    <string name="alert_channel_name">Critical Patient Alerts</string>
+    <string name="alert_channel_desc">Emergency alerts for abnormal heart rate or temperature</string>
+</resources>
+
