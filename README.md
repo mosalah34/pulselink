@@ -90,4 +90,4 @@ Create your own `local.properties` with your `sdk.dir`. It is intentionally not 
 
 ## License
 
-MIT
+No license has been specified for this project yet. Until the author adds one, all rights are reserved.
